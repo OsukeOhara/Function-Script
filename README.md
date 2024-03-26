@@ -1,3 +1,4 @@
+# This project was originally created in 2017 by Osuke Ohara
 # FunctionScript
 
 ![FunctionScript Logo](/images/fs-wordmark.png)
